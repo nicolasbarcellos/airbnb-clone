@@ -15,7 +15,7 @@ import { DateRangePicker } from "react-date-range";
 import { useRouter } from "next/router";
 
 type HeaderProps = {
-  placeholder: string;
+  placeholder?: string;
 };
 
 export default function Header({ placeholder }: HeaderProps): JSX.Element {
