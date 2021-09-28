@@ -7,9 +7,13 @@
   },
   "dependencies": {
     "@heroicons/react": "^1.0.4",
+    "@types/react-date-range": "^1.1.8",
     "axios": "^0.21.4",
+    "date-fns": "^2.24.0",
     "next": "latest",
+    "nextjs-progressbar": "^0.0.11",
     "react": "^17.0.2",
+    "react-date-range": "^1.4.0",
     "react-dom": "^17.0.2",
     "tailwind-scrollbar-hide": "^1.0.3"
   },
